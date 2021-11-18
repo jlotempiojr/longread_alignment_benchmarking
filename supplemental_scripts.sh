@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Written between Friday March 1 2019 and Februrary 2020
+# Written between Friday March 1 2019 and February 2020
 # Prepared for publication October 17-28
 # Not executible, but includes a shebang for ease of reading in a text editor 
 # This document should contain 5 sections. 
