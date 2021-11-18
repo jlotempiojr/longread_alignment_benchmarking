@@ -13,6 +13,7 @@ https://drive.google.com/drive/folders/1EImtHkYpOoUk7LOqPE__94r6CZSxk_fw?usp=sha
 
 ## Scripts
 The scripts are commented to outline the steps taken in VCF processing and utilize functionality in shell scripting and R. You can find them here:
+https://github.com/jlotempiojr/longread_alignment_benchmarking/blob/db099c783099716704ff7ee5e53f68accea19253/supplemental_scripts.sh
 
 **Contact**
 evilain@childrensnational.org
