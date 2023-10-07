@@ -9,7 +9,6 @@ LoTempio, Jonathan; Délot, Emmanuèle; Vilain, Eric. Benchmarking long-read gen
 https://www.biorxiv.org/content/10.1101/2021.07.09.451840v1.full.pdf
 
 ## Data
-Raw, other files available upon request
 
 https://github.com/jlotempiojr/longread_alignment_benchmarking/tree/main/data
 
