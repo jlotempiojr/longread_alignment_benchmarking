@@ -1,6 +1,6 @@
 # Longread alignment benchmarking
 
-Scripts relevent to benchmarking longread sequence alignment tools.
+Scripts and data relevent to benchmarking longread sequence alignment tools.
 
 ## Citation
 
