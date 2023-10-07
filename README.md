@@ -32,4 +32,4 @@ These scripts are from earlier versions of this project, but retained for transp
 https://github.com/jlotempiojr/longread_alignment_benchmarking/blob/db099c783099716704ff7ee5e53f68accea19253/supplemental_scripts.sh
 
 **Contact**
-evilain@childrensnational.org
+evilain@hs.uci.edu
